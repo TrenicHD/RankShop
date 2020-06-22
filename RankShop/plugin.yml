@@ -1,0 +1,13 @@
+name: rankshop
+author: TrenicHD
+version: 1.0.0
+api: [3.0.0 , 4.0.0]
+main: TrenicHD\Main
+
+commands:
+  rankshop:
+    description: §bRankshop by TrenicHD
+
+permissions:
+  rs.use:
+    default: true
